@@ -1,3 +1,5 @@
+Very Basic React Project using create-react-app, redux library and react-redux library
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
