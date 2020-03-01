@@ -27,4 +27,5 @@ const mapDispatchToProps = dispatch => {
   };
 };
 
+//wrap the component with connect since we are not using hooks yet
 export default connect(mapStateToProps, mapDispatchToProps)(CakeContainer);
