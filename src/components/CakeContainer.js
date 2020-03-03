@@ -16,7 +16,7 @@ const CakeContainer = props => {
 //new prop for our component called numOfCakes (the key inside the returned object)
 const mapStateToProps = state => {
   return {
-    numOfCakes: state.numOfCakes
+    numOfCakes: state.cake.numOfCakes
   };
 };
 
